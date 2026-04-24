@@ -17,3 +17,5 @@ python3 absa_aspect_labeling.py \
   --kaggle-file <FILE_INSIDE_DATASET.csv> \
   --out labeled_reviews.csv
 ```
+competition websit
+d1y8zswxjnvm73.cloudfront.net
